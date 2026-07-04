@@ -16,4 +16,4 @@ Projects:
 - University Course Management System
 
 Connect:
-- E-mail: fa2205897@qu.edu.qa
+- Email: fa2205897@qu.edu.qa
