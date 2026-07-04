@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Falah Alahbabi 👋
 
-<!--
-**FalahAlahbabi/FalahAlahbabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student at Qatar University
 
-Here are some ideas to get you started:
+Skills:
+- Java
+- JavaScript
+- Python
+- SQL
+- HTML
+- CSS
+- MATLAB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- Plus Social Platform
+- University Course Management System
+
+Connect:
+- E-mail: fa2205897@qu.edu.qa
