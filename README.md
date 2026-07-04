@@ -12,8 +12,9 @@ Computer Science Student at Qatar University
 - MATLAB
 
 ## Projects:
-- Plus Social Platform
+- Plus (Social Platform)
 - University Course Management System
+- Student Management System (Python)
 
 ## Contact:
 - Email: fa2205897@qu.edu.qa
