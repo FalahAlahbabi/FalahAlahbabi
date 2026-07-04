@@ -2,7 +2,7 @@
 
 Computer Science Student at Qatar University
 
-Skills:
+## Skills:
 - Java
 - JavaScript
 - Python
@@ -11,9 +11,9 @@ Skills:
 - CSS
 - MATLAB
 
-Projects:
+## Projects:
 - Plus Social Platform
 - University Course Management System
 
-Contact:
+## Contact:
 - Email: fa2205897@qu.edu.qa
