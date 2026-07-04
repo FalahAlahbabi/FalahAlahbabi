@@ -15,5 +15,5 @@ Projects:
 - Plus Social Platform
 - University Course Management System
 
-Connect:
+Contact:
 - Email: fa2205897@qu.edu.qa
