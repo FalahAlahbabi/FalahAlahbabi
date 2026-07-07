@@ -14,6 +14,7 @@ Computer Science Student at Qatar University
 ## Projects:
 - Plus (Social Platform)
 - University Course Management System
+- Gene Expression Classification
 - Student Management System (Python)
 
 ## Contact:
